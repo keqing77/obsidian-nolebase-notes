@@ -1,5 +1,5 @@
 /** 文本 */
-export const siteName = 'Sonny'
+export const siteName = 'Sonny 的脑盒'
 export const siteShortName = 'Sonny'
 export const siteDescription = 'Sonny miniuniverse'
 

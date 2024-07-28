@@ -23,8 +23,8 @@ export const creators: Creator[] = [
     name: '写前端的刻猫猫',
     avatar: '',
     username: 'keqing77',
-    title: ' 兼职写前端的牛杂师傅',
-    desc: '核动力牛马, power by 核废水,毒牛奶，地沟油',
+    title: '前端打杂的牛杂师傅',
+    desc: '高性能核动力牛马, 只需喂养核废水,毒牛奶，地沟油',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/keqing77' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/lllavard' },

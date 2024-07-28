@@ -7,10 +7,10 @@ titleTemplate: Mini Universe
 
 hero:
   name: SonnyBoy
-  text: My Mini Universe
+  text: Sonny's Mini Universe
   tagline: 一个小小的宇宙，记录着我的所思所想
   image:
-    src: /logo.svg
+    src: /nina_logo.svg
     alt: Vitest
   actions:
     - theme: brand
