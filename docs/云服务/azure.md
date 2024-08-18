@@ -6,7 +6,7 @@ Azure 是微软推出的云计算服务，提供了计算、存储、数据库�
 
 ## 产品
 
-- [x] Azure Microsoft Entra ID
-- [x] Azure App Service
-- [x] Azure SQL Database
-- [x] Azure Storage
+- [Azure Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) 
+- [Azure App Service](https://azure.microsoft.com/en-us/products/app-service) 
+- [Azure SQL Database](https://azure.microsoft.com/en-us/products/azure-sql/database) 
+- [Azure Storage](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
